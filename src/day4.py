@@ -115,12 +115,3 @@ if __name__ == "__main__":
 
         if finish_num != -1:
             break
-
-    
-        
-    
-
-
-
-
-
